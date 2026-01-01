@@ -166,7 +166,8 @@ If you use this scraper in academic work:
 
 ## Contact
 
-[Your contact information]
+- Website: [www.mrsarkheh.com](https://www.mrsarkheh.com)
+- Company: [www.mimradigital.com](https://www.mimradigital.com)
 
 ## Acknowledgments
 
