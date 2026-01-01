@@ -161,7 +161,7 @@ MIT License - See LICENSE file
 If you use this scraper in academic work:
 
 ```
-[Your citation format here]
+[The School of Engineering Design and Teaching Innovation | University of Ottawa]
 ```
 
 ## Contact
